@@ -29,3 +29,5 @@ params_playback.pn = 1;
 ```
 
 See also `RunParamSweep.m`
+
+There is also code that models sequence formation based on the same principles in a network of leaky-integrate-and-fire (LIF) neurons.  The numerical integration is run by [SimLIFNet.m](https://github.com/cgh2797/Integrate-and-fire-model).
